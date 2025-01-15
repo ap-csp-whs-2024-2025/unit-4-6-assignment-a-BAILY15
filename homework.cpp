@@ -13,8 +13,14 @@
 
 int main()
 {
-    // Complete your homework here
+  // Complete your homework here
+int input1;
+int input2;
 
+std::cout << "Enter a number ";
+std::cin >> input1;
+std::cout << "Enter another number ";
+std::cin >> input2;
     
     return 0;
 }
